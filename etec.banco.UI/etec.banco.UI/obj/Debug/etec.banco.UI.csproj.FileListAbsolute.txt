@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\bin\Debug\etec.banco.UI.exe.config
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\bin\Debug\etec.banco.UI.exe
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\bin\Debug\etec.banco.UI.pdb
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.Form1.resources
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.Properties.Resources.resources
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.exe
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.pdb
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.Cadastro.resources
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.InfoCadastrais.resources
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.TelaMenu.resources
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.CadFornecedor.resources
+C:\Users\aluno\source\repos\etec.banco.UI\etec.banco.UI\obj\Debug\etec.banco.UI.CadFuncionarios.resources
